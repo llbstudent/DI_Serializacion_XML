@@ -1,0 +1,13 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Empleado id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SerializaciónFicheros/SerializaciónFicheros%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<identificacion>12345678</identificacion>
+<nombre id="ref-3">Bea</nombre>
+<apellido id="ref-4">Garcia</apellido>
+<edad>38</edad>
+<telefono id="ref-5">956123123</telefono>
+<fechaIngreso>2017-10-23T18:38:51.9437342+02:00</fechaIngreso>
+<diasLaborados>5</diasLaborados>
+</a1:Empleado>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

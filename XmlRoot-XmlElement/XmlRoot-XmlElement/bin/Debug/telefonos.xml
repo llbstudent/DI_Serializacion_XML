@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<addressBook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <owner firstName="YO" lastName="">
+    <tel1 />
+    <email />
+  </owner>
+  <contact firstName="Bea" lastName="García">
+    <tel1>956123123</tel1>
+    <email>ja@ja.com</email>
+  </contact>
+  <contact firstName="Isa" lastName="Gómez">
+    <tel1>956145145</tel1>
+    <email>is@ja.com</email>
+  </contact>
+</addressBook>

@@ -1,0 +1,18 @@
+c:\users\beatriz\documents\visual studio 2015\Projects\EjemploXMLLecturaXMLReader\EjemploXMLLecturaXMLReader\bin\Debug\EjemploXMLLecturaXMLReader.exe.config
+c:\users\beatriz\documents\visual studio 2015\Projects\EjemploXMLLecturaXMLReader\EjemploXMLLecturaXMLReader\bin\Debug\EjemploXMLLecturaXMLReader.exe
+c:\users\beatriz\documents\visual studio 2015\Projects\EjemploXMLLecturaXMLReader\EjemploXMLLecturaXMLReader\bin\Debug\EjemploXMLLecturaXMLReader.pdb
+c:\users\beatriz\documents\visual studio 2015\Projects\EjemploXMLLecturaXMLReader\EjemploXMLLecturaXMLReader\obj\Debug\EjemploXMLLecturaXMLReader.csprojResolveAssemblyReference.cache
+c:\users\beatriz\documents\visual studio 2015\Projects\EjemploXMLLecturaXMLReader\EjemploXMLLecturaXMLReader\obj\Debug\EjemploXMLLecturaXMLReader.exe
+c:\users\beatriz\documents\visual studio 2015\Projects\EjemploXMLLecturaXMLReader\EjemploXMLLecturaXMLReader\obj\Debug\EjemploXMLLecturaXMLReader.pdb
+D:\SERIALIZACIÓN XML\EjemploXMLLecturaXMLReader\EjemploXMLLecturaXMLReader\bin\Debug\EjemploXMLLecturaXMLReader.exe.config
+D:\SERIALIZACIÓN XML\EjemploXMLLecturaXMLReader\EjemploXMLLecturaXMLReader\bin\Debug\EjemploXMLLecturaXMLReader.exe
+D:\SERIALIZACIÓN XML\EjemploXMLLecturaXMLReader\EjemploXMLLecturaXMLReader\bin\Debug\EjemploXMLLecturaXMLReader.pdb
+D:\SERIALIZACIÓN XML\EjemploXMLLecturaXMLReader\EjemploXMLLecturaXMLReader\obj\Debug\EjemploXMLLecturaXMLReader.csprojResolveAssemblyReference.cache
+D:\SERIALIZACIÓN XML\EjemploXMLLecturaXMLReader\EjemploXMLLecturaXMLReader\obj\Debug\EjemploXMLLecturaXMLReader.csproj.CoreCompileInputs.cache
+D:\SERIALIZACIÓN XML\EjemploXMLLecturaXMLReader\EjemploXMLLecturaXMLReader\obj\Debug\EjemploXMLLecturaXMLReader.exe
+D:\SERIALIZACIÓN XML\EjemploXMLLecturaXMLReader\EjemploXMLLecturaXMLReader\obj\Debug\EjemploXMLLecturaXMLReader.pdb
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\Ficheros\XML_Ejercicios-Ejemplos\EjemploXMLLecturaXMLReader\EjemploXMLLecturaXMLReader\bin\Debug\EjemploXMLLecturaXMLReader.exe.config
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\Ficheros\XML_Ejercicios-Ejemplos\EjemploXMLLecturaXMLReader\EjemploXMLLecturaXMLReader\bin\Debug\EjemploXMLLecturaXMLReader.exe
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\Ficheros\XML_Ejercicios-Ejemplos\EjemploXMLLecturaXMLReader\EjemploXMLLecturaXMLReader\bin\Debug\EjemploXMLLecturaXMLReader.pdb
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\Ficheros\XML_Ejercicios-Ejemplos\EjemploXMLLecturaXMLReader\EjemploXMLLecturaXMLReader\obj\Debug\EjemploXMLLecturaXMLReader.exe
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\Ficheros\XML_Ejercicios-Ejemplos\EjemploXMLLecturaXMLReader\EjemploXMLLecturaXMLReader\obj\Debug\EjemploXMLLecturaXMLReader.pdb

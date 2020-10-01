@@ -1,0 +1,12 @@
+c:\users\vicedireccion\documents\visual studio 2012\Projects\XmlRoot-XmlElement\XmlRoot-XmlElement\bin\Debug\XmlRoot-XmlElement.exe.config
+c:\users\vicedireccion\documents\visual studio 2012\Projects\XmlRoot-XmlElement\XmlRoot-XmlElement\bin\Debug\XmlRoot-XmlElement.exe
+c:\users\vicedireccion\documents\visual studio 2012\Projects\XmlRoot-XmlElement\XmlRoot-XmlElement\bin\Debug\XmlRoot-XmlElement.pdb
+c:\users\vicedireccion\documents\visual studio 2012\Projects\XmlRoot-XmlElement\XmlRoot-XmlElement\obj\Debug\XmlRoot-XmlElement.csprojResolveAssemblyReference.cache
+c:\users\vicedireccion\documents\visual studio 2012\Projects\XmlRoot-XmlElement\XmlRoot-XmlElement\obj\Debug\XmlRoot-XmlElement.exe
+c:\users\vicedireccion\documents\visual studio 2012\Projects\XmlRoot-XmlElement\XmlRoot-XmlElement\obj\Debug\XmlRoot-XmlElement.pdb
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\Ficheros\XML_Ejercicios-Ejemplos\XmlRoot-XmlElement\XmlRoot-XmlElement\bin\Debug\XmlRoot-XmlElement.exe.config
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\Ficheros\XML_Ejercicios-Ejemplos\XmlRoot-XmlElement\XmlRoot-XmlElement\bin\Debug\XmlRoot-XmlElement.exe
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\Ficheros\XML_Ejercicios-Ejemplos\XmlRoot-XmlElement\XmlRoot-XmlElement\bin\Debug\XmlRoot-XmlElement.pdb
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\Ficheros\XML_Ejercicios-Ejemplos\XmlRoot-XmlElement\XmlRoot-XmlElement\obj\Debug\XmlRoot-XmlElement.csprojAssemblyReference.cache
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\Ficheros\XML_Ejercicios-Ejemplos\XmlRoot-XmlElement\XmlRoot-XmlElement\obj\Debug\XmlRoot-XmlElement.exe
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\Ficheros\XML_Ejercicios-Ejemplos\XmlRoot-XmlElement\XmlRoot-XmlElement\obj\Debug\XmlRoot-XmlElement.pdb

@@ -1,0 +1,12 @@
+c:\users\beatriz\documents\visual studio 2015\Projects\SerializaciónFicheros\SerializaciónFicheros\bin\Debug\SerializaciónFicheros.exe.config
+c:\users\beatriz\documents\visual studio 2015\Projects\SerializaciónFicheros\SerializaciónFicheros\bin\Debug\SerializaciónFicheros.exe
+c:\users\beatriz\documents\visual studio 2015\Projects\SerializaciónFicheros\SerializaciónFicheros\bin\Debug\SerializaciónFicheros.pdb
+c:\users\beatriz\documents\visual studio 2015\Projects\SerializaciónFicheros\SerializaciónFicheros\obj\Debug\SerializaciónFicheros.csprojResolveAssemblyReference.cache
+c:\users\beatriz\documents\visual studio 2015\Projects\SerializaciónFicheros\SerializaciónFicheros\obj\Debug\SerializaciónFicheros.exe
+c:\users\beatriz\documents\visual studio 2015\Projects\SerializaciónFicheros\SerializaciónFicheros\obj\Debug\SerializaciónFicheros.pdb
+C:\Users\Beatriz\Dropbox\DI 16-17\SerializaciónEjemplosSOAPXML\SerializaciónEjemplosSOAPXML\SerializaciónFicheros\SerializaciónFicheros\bin\Debug\SerializaciónFicheros.exe.config
+C:\Users\Beatriz\Dropbox\DI 16-17\SerializaciónEjemplosSOAPXML\SerializaciónEjemplosSOAPXML\SerializaciónFicheros\SerializaciónFicheros\obj\Debug\SerializaciónFicheros.exe
+C:\Users\Beatriz\Dropbox\DI 16-17\SerializaciónEjemplosSOAPXML\SerializaciónEjemplosSOAPXML\SerializaciónFicheros\SerializaciónFicheros\obj\Debug\SerializaciónFicheros.pdb
+C:\Users\Beatriz\Dropbox\DI 16-17\SerializaciónEjemplosSOAPXML\SerializaciónEjemplosSOAPXML\SerializaciónFicheros\SerializaciónFicheros\bin\Debug\SerializaciónFicheros.exe
+C:\Users\Beatriz\Dropbox\DI 16-17\SerializaciónEjemplosSOAPXML\SerializaciónEjemplosSOAPXML\SerializaciónFicheros\SerializaciónFicheros\bin\Debug\SerializaciónFicheros.pdb
+C:\Users\Beatriz\Dropbox\DI 16-17\SerializaciónEjemplosSOAPXML\SerializaciónEjemplosSOAPXML\SerializaciónFicheros\SerializaciónFicheros\obj\Debug\SerializaciónFicheros.csprojResolveAssemblyReference.cache

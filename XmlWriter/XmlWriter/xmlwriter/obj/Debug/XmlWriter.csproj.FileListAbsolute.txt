@@ -1,0 +1,19 @@
+c:\users\vicedireccion\documents\visual studio 2012\Projects\XmlWriter\XmlWriter\bin\Debug\XmlWriter.exe.config
+c:\users\vicedireccion\documents\visual studio 2012\Projects\XmlWriter\XmlWriter\bin\Debug\XmlWriter.exe
+c:\users\vicedireccion\documents\visual studio 2012\Projects\XmlWriter\XmlWriter\bin\Debug\XmlWriter.pdb
+c:\users\vicedireccion\documents\visual studio 2012\Projects\XmlWriter\XmlWriter\obj\Debug\XmlWriter.csprojResolveAssemblyReference.cache
+c:\users\vicedireccion\documents\visual studio 2012\Projects\XmlWriter\XmlWriter\obj\Debug\XmlWriter.exe
+c:\users\vicedireccion\documents\visual studio 2012\Projects\XmlWriter\XmlWriter\obj\Debug\XmlWriter.pdb
+D:\SERIALIZACIÓN XML\XmlWriter\XmlWriter\XmlWriter\bin\Debug\XmlWriter.exe.config
+D:\SERIALIZACIÓN XML\XmlWriter\XmlWriter\XmlWriter\bin\Debug\XmlWriter.exe
+D:\SERIALIZACIÓN XML\XmlWriter\XmlWriter\XmlWriter\bin\Debug\XmlWriter.pdb
+D:\SERIALIZACIÓN XML\XmlWriter\XmlWriter\XmlWriter\obj\Debug\XmlWriter.csprojResolveAssemblyReference.cache
+D:\SERIALIZACIÓN XML\XmlWriter\XmlWriter\XmlWriter\obj\Debug\XmlWriter.csproj.CoreCompileInputs.cache
+D:\SERIALIZACIÓN XML\XmlWriter\XmlWriter\XmlWriter\obj\Debug\XmlWriter.exe
+D:\SERIALIZACIÓN XML\XmlWriter\XmlWriter\XmlWriter\obj\Debug\XmlWriter.pdb
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\Ficheros\XML_Ejercicios-Ejemplos\XmlWriter\XmlWriter\XmlWriter\bin\Debug\XmlWriter.exe.config
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\Ficheros\XML_Ejercicios-Ejemplos\XmlWriter\XmlWriter\XmlWriter\bin\Debug\XmlWriter.exe
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\Ficheros\XML_Ejercicios-Ejemplos\XmlWriter\XmlWriter\XmlWriter\bin\Debug\XmlWriter.pdb
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\Ficheros\XML_Ejercicios-Ejemplos\XmlWriter\XmlWriter\XmlWriter\obj\Debug\XmlWriter.csprojAssemblyReference.cache
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\Ficheros\XML_Ejercicios-Ejemplos\XmlWriter\XmlWriter\XmlWriter\obj\Debug\XmlWriter.exe
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\Ficheros\XML_Ejercicios-Ejemplos\XmlWriter\XmlWriter\XmlWriter\obj\Debug\XmlWriter.pdb

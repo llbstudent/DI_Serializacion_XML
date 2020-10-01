@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Empleado xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Identificacion>12345678</Identificacion>
+  <Nombre>Bea</Nombre>
+  <Apellido>Garcia</Apellido>
+  <Edad>38</Edad>
+  <Telefono>956123123</Telefono>
+</Empleado><?xml version="1.0"?>
+<Empleado xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Identificacion>33345678</Identificacion>
+  <Nombre>Antonio</Nombre>
+  <Apellido>Gómez</Apellido>
+  <Edad>25</Edad>
+  <Telefono>956456456</Telefono>
+</Empleado>

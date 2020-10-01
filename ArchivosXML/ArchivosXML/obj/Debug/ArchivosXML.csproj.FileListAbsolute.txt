@@ -1,0 +1,47 @@
+c:\users\vicedireccion\documents\visual studio 2012\Projects\ArchivosXML\ArchivosXML\bin\Debug\ArchivosXML.exe.config
+c:\users\vicedireccion\documents\visual studio 2012\Projects\ArchivosXML\ArchivosXML\bin\Debug\ArchivosXML.exe
+c:\users\vicedireccion\documents\visual studio 2012\Projects\ArchivosXML\ArchivosXML\bin\Debug\ArchivosXML.pdb
+c:\users\vicedireccion\documents\visual studio 2012\Projects\ArchivosXML\ArchivosXML\obj\Debug\ArchivosXML.csprojResolveAssemblyReference.cache
+c:\users\vicedireccion\documents\visual studio 2012\Projects\ArchivosXML\ArchivosXML\obj\Debug\ArchivosXML.Form1.resources
+c:\users\vicedireccion\documents\visual studio 2012\Projects\ArchivosXML\ArchivosXML\obj\Debug\ArchivosXML.Properties.Resources.resources
+c:\users\vicedireccion\documents\visual studio 2012\Projects\ArchivosXML\ArchivosXML\obj\Debug\ArchivosXML.csproj.GenerateResource.Cache
+c:\users\vicedireccion\documents\visual studio 2012\Projects\ArchivosXML\ArchivosXML\obj\Debug\ArchivosXML.exe
+c:\users\vicedireccion\documents\visual studio 2012\Projects\ArchivosXML\ArchivosXML\obj\Debug\ArchivosXML.pdb
+D:\SERIALIZACIÓN XML\ArchivosXML\ArchivosXML\bin\Debug\ArchivosXML.exe.config
+D:\SERIALIZACIÓN XML\ArchivosXML\ArchivosXML\bin\Debug\ArchivosXML.exe
+D:\SERIALIZACIÓN XML\ArchivosXML\ArchivosXML\bin\Debug\ArchivosXML.pdb
+D:\SERIALIZACIÓN XML\ArchivosXML\ArchivosXML\obj\Debug\ArchivosXML.csprojResolveAssemblyReference.cache
+D:\SERIALIZACIÓN XML\ArchivosXML\ArchivosXML\obj\Debug\ArchivosXML.Form1.resources
+D:\SERIALIZACIÓN XML\ArchivosXML\ArchivosXML\obj\Debug\ArchivosXML.Properties.Resources.resources
+D:\SERIALIZACIÓN XML\ArchivosXML\ArchivosXML\obj\Debug\ArchivosXML.csproj.GenerateResource.Cache
+D:\SERIALIZACIÓN XML\ArchivosXML\ArchivosXML\obj\Debug\ArchivosXML.csproj.CoreCompileInputs.cache
+D:\SERIALIZACIÓN XML\ArchivosXML\ArchivosXML\obj\Debug\ArchivosXML.exe
+D:\SERIALIZACIÓN XML\ArchivosXML\ArchivosXML\obj\Debug\ArchivosXML.pdb
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\Ficheros\ArchivosXML\ArchivosXML\bin\Debug\ArchivosXML.exe.config
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\Ficheros\ArchivosXML\ArchivosXML\bin\Debug\ArchivosXML.exe
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\Ficheros\ArchivosXML\ArchivosXML\bin\Debug\ArchivosXML.pdb
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\Ficheros\ArchivosXML\ArchivosXML\obj\Debug\ArchivosXML.csprojAssemblyReference.cache
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\Ficheros\ArchivosXML\ArchivosXML\obj\Debug\ArchivosXML.Form1.resources
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\Ficheros\ArchivosXML\ArchivosXML\obj\Debug\ArchivosXML.Properties.Resources.resources
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\Ficheros\ArchivosXML\ArchivosXML\obj\Debug\ArchivosXML.csproj.GenerateResource.cache
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\Ficheros\ArchivosXML\ArchivosXML\obj\Debug\ArchivosXML.exe
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\Ficheros\ArchivosXML\ArchivosXML\obj\Debug\ArchivosXML.pdb
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\Ficheros\XML_Ejercicios-Ejemplos\ArchivosXML\ArchivosXML\bin\Debug\ArchivosXML.exe.config
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\Ficheros\XML_Ejercicios-Ejemplos\ArchivosXML\ArchivosXML\bin\Debug\ArchivosXML.exe
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\Ficheros\XML_Ejercicios-Ejemplos\ArchivosXML\ArchivosXML\bin\Debug\ArchivosXML.pdb
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\Ficheros\XML_Ejercicios-Ejemplos\ArchivosXML\ArchivosXML\obj\Debug\ArchivosXML.csprojAssemblyReference.cache
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\Ficheros\XML_Ejercicios-Ejemplos\ArchivosXML\ArchivosXML\obj\Debug\ArchivosXML.Form1.resources
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\Ficheros\XML_Ejercicios-Ejemplos\ArchivosXML\ArchivosXML\obj\Debug\ArchivosXML.Properties.Resources.resources
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\Ficheros\XML_Ejercicios-Ejemplos\ArchivosXML\ArchivosXML\obj\Debug\ArchivosXML.csproj.GenerateResource.cache
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\Ficheros\XML_Ejercicios-Ejemplos\ArchivosXML\ArchivosXML\obj\Debug\ArchivosXML.exe
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\Ficheros\XML_Ejercicios-Ejemplos\ArchivosXML\ArchivosXML\obj\Debug\ArchivosXML.pdb
+D:\Cositas_Lau\FORMATEO\Cosas_importantes\CURSO-DAM\2DAM\3_DI\1TRIM\5TEMA_Ficheros\SERIALIZACION\ArchivosXML\ArchivosXML\bin\Debug\ArchivosXML.exe.config
+D:\Cositas_Lau\FORMATEO\Cosas_importantes\CURSO-DAM\2DAM\3_DI\1TRIM\5TEMA_Ficheros\SERIALIZACION\ArchivosXML\ArchivosXML\bin\Debug\ArchivosXML.exe
+D:\Cositas_Lau\FORMATEO\Cosas_importantes\CURSO-DAM\2DAM\3_DI\1TRIM\5TEMA_Ficheros\SERIALIZACION\ArchivosXML\ArchivosXML\bin\Debug\ArchivosXML.pdb
+D:\Cositas_Lau\FORMATEO\Cosas_importantes\CURSO-DAM\2DAM\3_DI\1TRIM\5TEMA_Ficheros\SERIALIZACION\ArchivosXML\ArchivosXML\obj\Debug\ArchivosXML.csprojAssemblyReference.cache
+D:\Cositas_Lau\FORMATEO\Cosas_importantes\CURSO-DAM\2DAM\3_DI\1TRIM\5TEMA_Ficheros\SERIALIZACION\ArchivosXML\ArchivosXML\obj\Debug\ArchivosXML.Form1.resources
+D:\Cositas_Lau\FORMATEO\Cosas_importantes\CURSO-DAM\2DAM\3_DI\1TRIM\5TEMA_Ficheros\SERIALIZACION\ArchivosXML\ArchivosXML\obj\Debug\ArchivosXML.Properties.Resources.resources
+D:\Cositas_Lau\FORMATEO\Cosas_importantes\CURSO-DAM\2DAM\3_DI\1TRIM\5TEMA_Ficheros\SERIALIZACION\ArchivosXML\ArchivosXML\obj\Debug\ArchivosXML.csproj.GenerateResource.cache
+D:\Cositas_Lau\FORMATEO\Cosas_importantes\CURSO-DAM\2DAM\3_DI\1TRIM\5TEMA_Ficheros\SERIALIZACION\ArchivosXML\ArchivosXML\obj\Debug\ArchivosXML.csproj.CoreCompileInputs.cache
+D:\Cositas_Lau\FORMATEO\Cosas_importantes\CURSO-DAM\2DAM\3_DI\1TRIM\5TEMA_Ficheros\SERIALIZACION\ArchivosXML\ArchivosXML\obj\Debug\ArchivosXML.exe
+D:\Cositas_Lau\FORMATEO\Cosas_importantes\CURSO-DAM\2DAM\3_DI\1TRIM\5TEMA_Ficheros\SERIALIZACION\ArchivosXML\ArchivosXML\obj\Debug\ArchivosXML.pdb

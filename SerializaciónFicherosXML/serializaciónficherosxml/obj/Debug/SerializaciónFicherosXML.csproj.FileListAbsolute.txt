@@ -1,0 +1,19 @@
+c:\users\beatriz\documents\visual studio 2015\Projects\SerializaciónFicherosXML\SerializaciónFicherosXML\bin\Debug\SerializaciónFicherosXML.exe.config
+c:\users\beatriz\documents\visual studio 2015\Projects\SerializaciónFicherosXML\SerializaciónFicherosXML\obj\Debug\SerializaciónFicherosXML.csprojResolveAssemblyReference.cache
+c:\users\beatriz\documents\visual studio 2015\Projects\SerializaciónFicherosXML\SerializaciónFicherosXML\bin\Debug\SerializaciónFicherosXML.exe
+c:\users\beatriz\documents\visual studio 2015\Projects\SerializaciónFicherosXML\SerializaciónFicherosXML\bin\Debug\SerializaciónFicherosXML.pdb
+c:\users\beatriz\documents\visual studio 2015\Projects\SerializaciónFicherosXML\SerializaciónFicherosXML\obj\Debug\SerializaciónFicherosXML.exe
+c:\users\beatriz\documents\visual studio 2015\Projects\SerializaciónFicherosXML\SerializaciónFicherosXML\obj\Debug\SerializaciónFicherosXML.pdb
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\Ficheros\SERIALIZACIÓN\SerializaciónFicherosXML\SerializaciónFicherosXML\bin\Debug\SerializaciónFicherosXML.exe.config
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\Ficheros\SERIALIZACIÓN\SerializaciónFicherosXML\SerializaciónFicherosXML\bin\Debug\SerializaciónFicherosXML.exe
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\Ficheros\SERIALIZACIÓN\SerializaciónFicherosXML\SerializaciónFicherosXML\bin\Debug\SerializaciónFicherosXML.pdb
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\Ficheros\SERIALIZACIÓN\SerializaciónFicherosXML\SerializaciónFicherosXML\obj\Debug\SerializaciónFicherosXML.csprojAssemblyReference.cache
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\Ficheros\SERIALIZACIÓN\SerializaciónFicherosXML\SerializaciónFicherosXML\obj\Debug\SerializaciónFicherosXML.exe
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\Ficheros\SERIALIZACIÓN\SerializaciónFicherosXML\SerializaciónFicherosXML\obj\Debug\SerializaciónFicherosXML.pdb
+D:\Cositas_Lau\FORMATEO\Cosas_importantes\CURSO-DAM\2DAM\3_DI\1TRIM\5TEMA_Ficheros\SERIALIZACION\SerializaciónFicherosXML\SerializaciónFicherosXML\bin\Debug\SerializaciónFicherosXML.exe.config
+D:\Cositas_Lau\FORMATEO\Cosas_importantes\CURSO-DAM\2DAM\3_DI\1TRIM\5TEMA_Ficheros\SERIALIZACION\SerializaciónFicherosXML\SerializaciónFicherosXML\bin\Debug\SerializaciónFicherosXML.exe
+D:\Cositas_Lau\FORMATEO\Cosas_importantes\CURSO-DAM\2DAM\3_DI\1TRIM\5TEMA_Ficheros\SERIALIZACION\SerializaciónFicherosXML\SerializaciónFicherosXML\bin\Debug\SerializaciónFicherosXML.pdb
+D:\Cositas_Lau\FORMATEO\Cosas_importantes\CURSO-DAM\2DAM\3_DI\1TRIM\5TEMA_Ficheros\SERIALIZACION\SerializaciónFicherosXML\SerializaciónFicherosXML\obj\Debug\SerializaciónFicherosXML.csprojAssemblyReference.cache
+D:\Cositas_Lau\FORMATEO\Cosas_importantes\CURSO-DAM\2DAM\3_DI\1TRIM\5TEMA_Ficheros\SERIALIZACION\SerializaciónFicherosXML\SerializaciónFicherosXML\obj\Debug\SerializaciónFicherosXML.csproj.CoreCompileInputs.cache
+D:\Cositas_Lau\FORMATEO\Cosas_importantes\CURSO-DAM\2DAM\3_DI\1TRIM\5TEMA_Ficheros\SERIALIZACION\SerializaciónFicherosXML\SerializaciónFicherosXML\obj\Debug\SerializaciónFicherosXML.exe
+D:\Cositas_Lau\FORMATEO\Cosas_importantes\CURSO-DAM\2DAM\3_DI\1TRIM\5TEMA_Ficheros\SERIALIZACION\SerializaciónFicherosXML\SerializaciónFicherosXML\obj\Debug\SerializaciónFicherosXML.pdb

@@ -1,0 +1,12 @@
+c:\users\beatriz\documents\visual studio 2015\Projects\XMLListadeObjetos\XMLListadeObjetos\bin\Debug\XMLListadeObjetos.exe.config
+c:\users\beatriz\documents\visual studio 2015\Projects\XMLListadeObjetos\XMLListadeObjetos\bin\Debug\XMLListadeObjetos.exe
+c:\users\beatriz\documents\visual studio 2015\Projects\XMLListadeObjetos\XMLListadeObjetos\bin\Debug\XMLListadeObjetos.pdb
+c:\users\beatriz\documents\visual studio 2015\Projects\XMLListadeObjetos\XMLListadeObjetos\obj\Debug\XMLListadeObjetos.csprojResolveAssemblyReference.cache
+c:\users\beatriz\documents\visual studio 2015\Projects\XMLListadeObjetos\XMLListadeObjetos\obj\Debug\XMLListadeObjetos.exe
+c:\users\beatriz\documents\visual studio 2015\Projects\XMLListadeObjetos\XMLListadeObjetos\obj\Debug\XMLListadeObjetos.pdb
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\Ficheros\XML_Ejercicios-Ejemplos\XMLListadeObjetos\XMLListadeObjetos\bin\Debug\XMLListadeObjetos.exe.config
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\Ficheros\XML_Ejercicios-Ejemplos\XMLListadeObjetos\XMLListadeObjetos\bin\Debug\XMLListadeObjetos.exe
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\Ficheros\XML_Ejercicios-Ejemplos\XMLListadeObjetos\XMLListadeObjetos\bin\Debug\XMLListadeObjetos.pdb
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\Ficheros\XML_Ejercicios-Ejemplos\XMLListadeObjetos\XMLListadeObjetos\obj\Debug\XMLListadeObjetos.csprojAssemblyReference.cache
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\Ficheros\XML_Ejercicios-Ejemplos\XMLListadeObjetos\XMLListadeObjetos\obj\Debug\XMLListadeObjetos.exe
+C:\Users\laura\OneDrive\Escritorio\FORMATEO\Cosas importantes\CURSO-DAM\2DAM\3_Des_Interfaces\Ejercicios_C#\Ficheros\XML_Ejercicios-Ejemplos\XMLListadeObjetos\XMLListadeObjetos\obj\Debug\XMLListadeObjetos.pdb

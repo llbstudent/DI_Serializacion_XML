@@ -1,0 +1,7 @@
+C:\Users\usuario\source\repos\Serializacion1\Serializacion1\bin\Debug\Serializacion1.exe.config
+C:\Users\usuario\source\repos\Serializacion1\Serializacion1\bin\Debug\Serializacion1.exe
+C:\Users\usuario\source\repos\Serializacion1\Serializacion1\bin\Debug\Serializacion1.pdb
+C:\Users\usuario\source\repos\Serializacion1\Serializacion1\obj\Debug\Serializacion1.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Serializacion1\Serializacion1\obj\Debug\Serializacion1.exe
+C:\Users\usuario\source\repos\Serializacion1\Serializacion1\obj\Debug\Serializacion1.pdb
+C:\Users\usuario\source\repos\Serializacion1\Serializacion1\obj\Debug\Serializacion1.csprojAssemblyReference.cache
